@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Expense Tracker App</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="logout">Logout</string>
+</resources>
