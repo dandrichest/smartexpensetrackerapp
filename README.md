@@ -6,7 +6,7 @@ As a software engineer, I am dedicated to mastering modern mobile development pa
 
 The purpose of creating this software is to solve the common problem of "invisible spending" by providing immediate visibility into one's financial habits. It aims to empower users to make informed budgetary decisions through real-time data analysis and automated insights.
 
-[Software Demo Video](https://youtube.com/shorts/9Pp06AnFL4g)
+[Software Demo Video](https://youtube.com/shorts/0x7HQsD2lCw)
 
 # Development Environment
 
